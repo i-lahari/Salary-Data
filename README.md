@@ -8,5 +8,6 @@ This project implements Simple Linear Regression from scratch to predict salarie
 The dataset contains two columns:
 
 Years of Experience
+
 Salary
 
