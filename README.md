@@ -2,6 +2,8 @@
 
 Fitting Simple Linear Regression Model on Salary Data
 
+**Data Source:** [Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
+
 **Overview:**
 
 This project implements Simple Linear Regression from scratch to predict salaries based on years of experience. The implementation demonstrates the fundamental concepts of linear regression without using built-in machine learning libraries.
