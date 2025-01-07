@@ -50,4 +50,4 @@ This gives us the linear equation: y = mx + b, where y is the predicted salary f
 
 **Slope :** 9339.081723815194
 
-**Intercept : ** 24985.530162511714
+**Intercept :** 24985.530162511714
